@@ -8,3 +8,5 @@
 - *Sam*
 - *Malak* 
 - *Qais*
+
+this is sam and jehad did on sam's computer 
